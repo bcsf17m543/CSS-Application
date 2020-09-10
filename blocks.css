@@ -1,0 +1,49 @@
+#one {
+  width: 25%;
+  border: 5px;
+  border-style: solid;
+  border-color: blue;
+  padding: 5px;
+  margin: 5px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+#two {
+  width: 25%;
+  border: 5px;
+  padding: 5px;
+  margin: 5px;
+  border-style: solid;
+  border-color: green;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+#three {
+  width: 25%;
+  border: 5px;
+  padding: 5px;
+  margin: 5px;
+  border-color: orange;
+  border-style: solid;
+  position: fixed;
+  top: 0;
+}
+#four {
+  width: 25%;
+  border: 5px;
+  border-color: yellow;
+  border-style: solid;
+  padding: 5px;
+  margin: 5px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+#link {
+  text-align: center;
+  color: white;
+  text-decoration-style: solid;
+  text-decoration-color: blue;
+}
